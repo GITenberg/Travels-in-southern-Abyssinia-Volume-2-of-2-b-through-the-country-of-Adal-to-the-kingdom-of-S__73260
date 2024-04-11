@@ -1,0 +1,34 @@
+_repo: Travels-in-southern-Abyssinia-Volume-2-of-2-b-through-the-country-of-Adal-to-the-kingdom-of-S__73260
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Charles
+    birthdate: 1810
+    deathdate: 1872
+    gutenberg_agent_id: '56533'
+    url: http://www.gutenberg.org/2009/agents/56533
+description: ''
+gutenberg_issued: '2024-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73260'
+language: en
+pgterms:marc904: https://archive.org/details/b29350530_0001
+pgterms:marc905: 20210515110634johnston
+pgterms:marc906: '1844'
+pgterms:marc907: gb
+production_note: Carol Brown, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. Madden and Co., $c1844.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethiopia -- Description and travel'
+- !lcsh 'Shewa Kifle Hager (Ethiopia) -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Travels in southern Abyssinia, Volume 2 (of 2) : $b through the country of
+  Adal to the kingdom of Shoa'
+url: http://www.gutenberg.org/ebooks/73260
